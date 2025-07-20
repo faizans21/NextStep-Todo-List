@@ -84,7 +84,7 @@ const Home = () => {
             <div key={ele.id} className="flex items-center justify-between rounded-lg py-2.5 px-4 mt-2 mx-2 bg-[#F2E9E4] ">
               <div className='flex gap-2.5'>
                 <input type="checkbox" onChange={handleCheckbox} name="" value={ele.isCompleted} id={ele.id} />
-                <div className={ele.isCompleted ? "text-[#111]" : "line-through text-gray-500"}>
+                <div className={ele.isCompleted ? "line-through text-gray-500" : "text-[#111]"}>
                   {ele.todo}
                 </div>
               </div>
