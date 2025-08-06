@@ -12,4 +12,4 @@
 
 ## 📸 Screenshot
 
-![NextStep Screenshot](./assets/screenshot.png)
+![NextStep Screenshot](./src/assets/screenshot.png)
