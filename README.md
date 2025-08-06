@@ -10,3 +10,6 @@
 - 🎯 Minimalist UI with focus on usability  
 - ⚛️ Built using React and modern JavaScript  
 
+## 📸 Screenshot
+
+![NextStep Screenshot](./assets/screenshot.png)
